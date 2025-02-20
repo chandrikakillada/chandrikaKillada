@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Chandrika!
-### 🚀 Full-Stack Developer | Next.js | React | TailwindCSS | AWS
+###  Full-Stack Developer | Next.js | React | TailwindCSS | AWS
 
 - 🌱 Currently learning **Advanced Next.js, TypeScript, and Cloud Deployments**
 - 🎯 Focused on **Web Performance & Scalable Architecture**
@@ -18,21 +18,12 @@
 
 ---
 
-### 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrikakillada&theme=tokyonight" />
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrikakillada&layout=compact&theme=tokyonight)
-
----
-
 ### 📌 Featured Projects
-#### 🚀 [Portfolio Website]([https://github.com/chandrikakillada/portfolio-chandrika](https://chandrika-killada-portfolio.vercel.app/))
+#### 👩 [Portfolio Website]([https://github.com/chandrikakillada/portfolio-chandrika](https://chandrika-killada-portfolio.vercel.app/))
 🔹 Built with **Next.js, TailwindCSS, AWS S3**  
 🔹 Deployed on **Vercel**
 
-#### 🎨 [Cool UI Components](https://github.com/chandrikakillada/react-ui-library)
+####  [Cool UI Components](https://github.com/chandrikakillada/react-ui-library)
 🔹 Custom **React UI Components**  
 🔹 Uses **Framer Motion & Styled Components**
 
