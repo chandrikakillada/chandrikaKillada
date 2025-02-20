@@ -9,14 +9,6 @@
 
 ---
 
-### 🛠 Tech Stack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20S3-232F3E?style=flat&logo=amazon-aws)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer)
-
----
 
 ### 📌 Featured Projects
 #### 👩 [Portfolio Website]([https://github.com/chandrikakillada/portfolio-chandrika](https://chandrika-killada-portfolio.vercel.app/))
@@ -26,6 +18,15 @@
 ####  [Cool UI Components](https://github.com/chandrikakillada/react-ui-library)
 🔹 Custom **React UI Components**  
 🔹 Uses **Framer Motion & Styled Components**
+
+
+### 🛠 Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20S3-232F3E?style=flat&logo=amazon-aws)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer)
+
 
 #### 🍽️ [NutriServe](https://github.com/2024-Winter-ITE-5425-0NA/project-react-client-webdriver)
 🔹 **Nutrition tracking app** 
