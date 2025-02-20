@@ -36,6 +36,11 @@
 🔹 Custom **React UI Components**  
 🔹 Uses **Framer Motion & Styled Components**
 
+#### 🍽️ [NutriServe](https://github.com/2024-Winter-ITE-5425-0NA/project-react-client-webdriver)
+🔹 **Nutrition tracking app** 
+🔹 Tech Stack: **React, Next.js, TailwindCSS, Firebase, AWS Lambda**  
+🔹 Features: **Food recognition, meal tracking, health insights**
+
 ---
 
 ### 🎯 Let's Connect!
